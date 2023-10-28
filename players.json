@@ -8,7 +8,7 @@
     "Position": "Goalkeeper",
     "International": "England",
     "Team": "Arsenal",
-    "Poster": "https://www.arsenal.com/sites/default/files/styles/large_16x9/public/images/Headshot_Ramsdale_1510x850_0.jpg?auto=webp&itok=w6EQqPOI"
+    "Poster": "https://i.postimg.cc/90j1WHJh/Ramsdale.png"
   },
   {
     "id": "2",
@@ -18,7 +18,7 @@
     "Position": "Defender",
     "International": "France",
     "Team": "Arsenal",
-    "Poster": "https://www.arsenal.com/sites/default/files/styles/large_16x9/public/images/MicrosoftTeams-image%20%2831%29_0.png?auto=webp&itok=zY0rjgVn"
+    "Poster": "https://i.postimg.cc/cCr14PHF/Saliba.png"
   },
   {
     "id": "3",
@@ -28,7 +28,7 @@
     "Position": "Defender",
     "International": "Brazil",
     "Team": "Arsenal",
-    "Poster": "https://www.arsenal.com/sites/default/files/styles/large_16x9/public/images/Headshot_Gabriel_1510x850_0.jpg?auto=webp&itok=_bv57iX5"
+    "Poster": "https://i.postimg.cc/9fLjR1sK/MAGALH-ES.jpg"
   },
   {
     "id": "4",
@@ -38,7 +38,7 @@
     "Position": "MIDFIELDERS",
     "International": "Norway",
     "Team": "Arsenal",
-    "Poster": "https://www.arsenal.com/sites/default/files/styles/large_16x9/public/images/Headshot_Odegaard_1510x850_0.jpg?auto=webp&itok=YQO9ByvO"
+    "Poster": "https://i.postimg.cc/MpxT1Prp/Odegard.jpg"
   },
   {
     "id": "5",
@@ -48,7 +48,7 @@
     "Position": "MIDFIELDERS",
     "International": "England",
     "Team": "Arsenal",
-    "Poster": "https://www.arsenal.com/sites/default/files/styles/large_16x9/public/images/MicrosoftTeams-image%20%2826%29.png?auto=webp&itok=K8hmFn_d"
+    "Poster": "https://i.postimg.cc/8CXzQ1k7/Rice.png"
   },
   {
     "id": "6",
@@ -58,7 +58,7 @@
     "Position": "FORWARDS",
     "International": "England",
     "Team": "Arsenal",
-    "Poster": "https://www.arsenal.com/sites/default/files/styles/large_16x9/public/images/Headshot_Saka_1510x850_0.jpg?auto=webp&itok=yZpptHcr"
+    "Poster": "https://i.postimg.cc/brkytkxn/Saka.jpg"
   },
   {
     "id": "7",
@@ -68,7 +68,7 @@
     "Position": "FORWARDS",
     "International": "Brazil",
     "Team": "Arsenal",
-    "Poster": "https://www.arsenal.com/sites/default/files/styles/large_16x9/public/images/Headshot_Jesus_1510x850_0.jpg?auto=webp&itok=ATg3CJe1"
+    "Poster": "https://i.postimg.cc/d31RQQrg/Jesus.jpg"
   }
  ]
 }

@@ -1,7 +1,6 @@
 {
   "result": [
   {
-    "id": "1",
     "no": "1",
     "name": "Aaron Ramsdale",
     "birth_date": "1998-05-14",
@@ -11,7 +10,6 @@
     "Poster": "https://i.postimg.cc/90j1WHJh/Ramsdale.png"
   },
   {
-    "id": "2",
     "no": "2",
     "name": "William Saliba",
     "birth_date": "2001-03-24",
@@ -21,7 +19,6 @@
     "Poster": "https://i.postimg.cc/cCr14PHF/Saliba.png"
   },
   {
-    "id": "3",
     "no": "6",
     "name": "Gabriel Magalhaes",
     "birth_date": "1997-12-19",
@@ -31,7 +28,6 @@
     "Poster": "https://i.postimg.cc/9fLjR1sK/MAGALH-ES.jpg"
   },
   {
-    "id": "4",
     "no": "8",
     "name": "Martin Odegaard",
     "birth_date": "1998-12-17",
@@ -41,7 +37,6 @@
     "Poster": "https://i.postimg.cc/MpxT1Prp/Odegard.jpg"
   },
   {
-    "id": "5",
     "no": "41",
     "name": "Declan Rice",
     "birth_date": "1999-01-14",
@@ -51,7 +46,6 @@
     "Poster": "https://i.postimg.cc/8CXzQ1k7/Rice.png"
   },
   {
-    "id": "6",
     "no": "7",
     "name": "Bukayo Saka",
     "birth_date": "2001-09-05",
@@ -61,7 +55,6 @@
     "Poster": "https://i.postimg.cc/brkytkxn/Saka.jpg"
   },
   {
-    "id": "7",
     "no": "9",
     "name": "Gabriel Jesus",
     "birth_date": "1997-04-03",
